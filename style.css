@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-/* すべてのWebページに適用される */
+/* すべてのWebページ */
 html {
 	font-family: sans-serif;
 }
@@ -82,7 +82,7 @@ img {
 	text-decoration: none;
 }
 
-/* すべてのページに適用 - フッター - */
+/* すべてのページ- フッター - */
 .footer {
 	background-image: url(../images/footer-bg.png);
 	background-repeat: no-repeat;
@@ -92,7 +92,7 @@ img {
 	color: #3f5170;
 }
 
-/* 個別のスタイル */
+
 /* index.html */
 .keyvisual {
 	margin: 15px 0 0 0;
